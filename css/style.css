@@ -1,0 +1,18 @@
+h2 {
+
+
+  text-align: center;
+  padding: 10px;
+  background-color: teal;
+  height: 50px;
+  width: 100%;
+  margin: 30px;
+  font-family: Ariel sans-serif;
+  font-weight: bold;
+
+}
+
+form{
+  margin: 30px;
+  border: 2px solid blue;
+}
